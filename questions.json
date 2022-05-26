@@ -1,26 +1,82 @@
 [
     {
-        "question" : "Inside which HTML element do we put the Javascript?",
-        "choice1" : "<script>",
-        "choice2" : "<javascript>",
-        "choice3" : "<js>",
-        "choice4" : "<scripting>",
-        "answer" : 1
+        "question" : "청동기 시대에 커다란 돌을 쌓아 만든 족장의 무덤을 무엇이라고 하는가?",
+        "choice1" : "부경",
+        "choice2" : "고인돌",
+        "choice3" : "책화",
+        "choice4" : "반달돌칼",
+        "answer" : 2
     },
-    {
-        "question" : "What is the correct syntax for referring to an external script called 'xxx.js'?",
-        "choice1" : "<script href='xxx.js'",
-        "choice2" : "<script name='xxx.js'",
-        "choice3" : "<script src='xxx.js'",
-        "choice4" : "<script file='xxx.js'",
+	{
+        "question" : "단군 왕검이 하늘에 제사를 지냈다는 참성단이 있는 곳은?",
+        "choice1" : "평양",
+        "choice2" : "국내성",
+        "choice3" : "강화도",
+        "choice4" : "제주도",
         "answer" : 3
     },
     {
-        "question" : "How do you write 'Hello World' in an alert box?",
-        "choice1" : "msgBox('Hello World');",
-        "choice2" : "alertBox('Hello World');",
-        "choice3" : "msg('Hello World');",
-        "choice4" : "alert('Hello World');",
+        "question" : "동명 성왕인 주몽이 세운 나라의 이름은?",
+        "choice1" : "고구려",
+        "choice2" : "북부여",
+        "choice3" : "동부여",
+        "choice4" : "사로국",
+        "answer" : 1
+    },
+    {
+        "question" : "삼국이 통일된 후 대조영이 옛 고구려의 영토에 세운 나라는?",
+        "choice1" : "후고구려",
+        "choice2" : "후백제",
+        "choice3" : "발해",
+        "choice4" : "고려",
+        "answer" : 3
+    },
+    {
+        "question" : "신라가 삼국 통일의 위업을 달성할 때의 왕은 누구인가?",
+        "choice1" : "이성계",
+        "choice2" : "무열왕",
+        "choice3" : "신문왕",
+        "choice4" : "문무왕",
         "answer" : 4
+    },
+    {
+        "question" : "백제의 영토를 북쪽으로는 한강, 남쪽으로는 탐라국까지 넓힌 왕은 누구인가?",
+        "choice1" : "근초고왕",
+        "choice2" : "개로왕",
+        "choice3" : "성왕",
+        "choice4" : "무령왕",
+        "answer" : 1
+    },
+    {
+        "question" : "고구려의 영토를 북만주까지 넓혀 고구려인의 용맹을 과시한 왕은 누구인가?",
+        "choice1" : "장수왕",
+        "choice2" : "광개토대왕",
+        "choice3" : "소수림왕",
+        "choice4" : "보장왕",
+        "answer" : 2
+    },
+    {
+        "question" : "고려에 처음 쳐들어온 외적으로 만주 서북부 지방에 살았고 요라는 나라를 세운 민족은?",
+        "choice1" : "거란족",
+        "choice2" : "선비족",
+        "choice3" : "여진족",
+        "choice4" : "만주족",
+        "answer" : 1
+    },
+    {
+        "question" : "만주 동북부 지방에 살면서 고려의 국경을 자주 넘어와서 노략질을 하였으며 금이라는 나라를 세운 민족은?",
+        "choice1" : "만주족",
+        "choice2" : "여진족",
+        "choice3" : "선비족",
+        "choice4" : "거란족",
+        "answer" : 2
+    },
+    {
+        "question" : "삼국 중에서 한반도 북부와 만주에 걸친 넓은 영토를 차지하고, 큰 세력을 떨친 나라는?",
+        "choice1" : "부여",
+        "choice2" : "고구려",
+        "choice3" : "마한",
+        "choice4" : "가야",
+        "answer" : 2
     }
 ]
